@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript, React.js<br>📫 How to reach me dhakeakshay82@gmail.com<br>⚡ Fun fact I am funny <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+🌱 I’m currently learning JavaScript, React.js, DevOps<br>📫 How to reach me dhakeakshay82@gmail.com<br>⚡ Fun fact I am funny <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ## 🌐 Socials:
